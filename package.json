@@ -1,0 +1,12 @@
+{
+  "name": "square-sum",
+  "version": "1.0.1",
+  "description": "An api that takes an array of number and returns sum of each number square",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "publish": "npm publish"
+  },
+  "author": "Majid Darvish",
+  "license": "ISC"
+}
