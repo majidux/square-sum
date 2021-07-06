@@ -1,6 +1,6 @@
 {
   "name": "square-sum",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An api that takes an array of number and returns sum of each number square",
   "main": "lib/index.js",
   "scripts": {
@@ -8,5 +8,17 @@
     "publish": "npm publish"
   },
   "author": "Majid Darvish",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majidux/square-sum/issues"
+  },
+  "homepage": "https://github.com/majidux/square-sum#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majidux/square-sum.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript"
+  ]
 }

@@ -16,6 +16,6 @@ yarn add square-sum
 
 #### How to use:
 ```javascript
-import { fibonacciSequence } from 'square-sum';
-const fib = fibonacciSequence([10, 3, 4])
+import { squareSum } from 'square-sum';
+const fib = squareSum([10, 3, 4])
 ```
